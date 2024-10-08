@@ -1,1 +1,1 @@
-# Blog_category
+# blogcategory
